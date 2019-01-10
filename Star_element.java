@@ -23,7 +23,7 @@ public static void main(String[] args)
 			else if(a[i]==max)
 			{
 				max=a[i];
-				max_i=-1;
+				max_i= -1;
 			}
 		}
 		int superstar;
